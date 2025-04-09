@@ -65,8 +65,8 @@ Interpretation:
 - Serves as a starting point for deeper exploration of regional financial patterns.
 
 <b>Average Cost of Living Map Across the U.S.</b>  
-<img src="images/Average_Cost_of_Living_Map_Across_the_U.S..png" alt="Average Cost of Living Map Across the U.S." />  
-![Result 1](All_States_Dasboard.png)
+
+![Result 1](Average _Cost_of_Living_Map Across_the_U.S..png)
 
 Interpretation:  
 - Depicts the average cost of living by state using a gradient color scale.  
