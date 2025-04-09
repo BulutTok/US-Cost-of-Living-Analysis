@@ -74,7 +74,7 @@ Interpretation:
 - Clearly illustrates regional disparities in living costs, making geographic differences easily understandable.
 
 <b>Statewise Average Living Cost</b>  
-<img src="images/Statewise_Average_Living_Cost.png" alt="Statewise Average Living Cost" />  
+
 ![Result 1](Statewise_Average_Living_Cost.png)
 
 Interpretation:  
