@@ -45,7 +45,9 @@ Each visualization provides both a visual critique and data-driven interpretatio
 <b>Results:</b>
 
 <b>Statewise Wealth Visualization</b>  
-<img src="images/Statewise_Wealth.png" alt="Statewise Wealth Visualization" />  
+
+
+![Result 1](Statewise_Wealth.png)
 
 Interpretation:  
 - Illustrates the differences between median family income and total living cost on a state-by-state basis.  
@@ -54,7 +56,8 @@ Interpretation:
 - Color coding and annotations make it easy to identify regional economic disparities.
 
 <b>All States Dashboard</b>  
-<img src="images/All_States_Dasboard.png" alt="All States Dashboard" />  
+
+![Result 1](All_States_Dasboard.png)
 
 Interpretation:  
 - Aggregates key cost-of-living metrics and household expenditure data for all states.  
@@ -63,6 +66,7 @@ Interpretation:
 
 <b>Average Cost of Living Map Across the U.S.</b>  
 <img src="images/Average_Cost_of_Living_Map_Across_the_U.S..png" alt="Average Cost of Living Map Across the U.S." />  
+![Result 1](All_States_Dasboard.png)
 
 Interpretation:  
 - Depicts the average cost of living by state using a gradient color scale.  
@@ -71,6 +75,7 @@ Interpretation:
 
 <b>Statewise Average Living Cost</b>  
 <img src="images/Statewise_Average_Living_Cost.png" alt="Statewise Average Living Cost" />  
+![Result 1](Statewise_Average_Living_Cost.png)
 
 Interpretation:  
 - Provides detailed average living cost information for each state, ranking them from most expensive to most affordable.  
