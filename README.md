@@ -1,6 +1,3 @@
-Below is the final plain text version of your README file for the “US-Cost-of-Living-Analysis” repository. In this version, section titles are made bold using HTML tags, the Table of Contents uses bullet points (without numbering), and the four image files are directly embedded without any “Image File:” labels. Make sure the four images are placed in an “images” folder in your repository.
-
-------------------------------------------------------------
 <b>US COST OF LIVING ANALYSIS</b>
 
 <b>Overview:</b>  
@@ -99,8 +96,4 @@ This project was developed for the MIS 505 Data Visualization course at the Univ
 <b>Contact:</b>  
 For any questions or feedback regarding the project, please contact:  
 Bulut Tok  
-Email: bt6631@uncw.edu
-
-------------------------------------------------------------
-
-Be sure to verify that each image (Statewise_Wealth.png, All_States_Dasboard.png, Average_Cost_of_Living_Map_Across_the_U.S..png, and Statewise_Average_Living_Cost.png) is correctly placed in your “images” folder so that they render properly when viewed. You may adjust any details or interpretations as needed.
+Email: buluttok2013@gmail.com
